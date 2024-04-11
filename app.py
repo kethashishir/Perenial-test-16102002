@@ -7,5 +7,5 @@ CORS(app)
 
 @app.route('/')
 def index():
-    return 'Azure Test APIS are working'
+    return 'Abishai Test APIS are working'
 
